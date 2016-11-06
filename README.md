@@ -17,13 +17,10 @@ APEX extracts contextual data and metrics directly from your Java application.
 It helps getting better visibility and understanding of what is happening in the software products' application layer during runtime.
 Designed to accelerate application analytics, debugging and monitoring.
 
-![Apex Toolkit][logo]
+![Apex Toolkit](./apex-toolkit-white.jpg)
 
 Please visit the [APEX-Toolkit Site](http://verticle-io.github.io/apex-toolkit) and check out the docs for details.
 
-
-
-[logo]: https://github.com/verticle-io/apex-service-template/blob/master/apex-toolkit-white.jpg =500x "Apex Toolkit"
 
 Contributing
 ------------
