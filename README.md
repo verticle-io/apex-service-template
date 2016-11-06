@@ -23,7 +23,7 @@ Please visit the [APEX-Toolkit Site](http://verticle-io.github.io/apex-toolkit) 
 
 
 
-[logo]: apex-toolkit-white.jpg  =500x "Apex Toolkit"
+[logo]: https://github.com/verticle-io/apex-service-template/blob/master/apex-toolkit-white.jpg =500x "Apex Toolkit"
 
 Contributing
 ------------
