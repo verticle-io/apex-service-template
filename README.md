@@ -19,12 +19,17 @@ Designed to accelerate application analytics, debugging and monitoring.
 
 ![Apex Toolkit](./apex-toolkit-white.jpg)
 
+APEX subprojects
+----------------
+
+* [Collector Agent](https://github.com/verticle-io/apex-toolkit)
+* [Service Template](https://github.com/verticle-io/apex-service-template)
+* [Instrumentation Repository](https://github.com/verticle-io/apex-instrumentation-repo)
+
+
 Please visit the [APEX-Toolkit Site](http://verticle-io.github.io/apex-toolkit) and check out the docs for details.
 
 
 Contributing
 ------------
 We are happy to receive PRs for the service template. If you find bugs or ideas for enhancements please use the issue tracker.
-
-
-
